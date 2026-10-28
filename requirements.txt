@@ -1,0 +1,7 @@
+qiskit==2.6.1
+qiskit-aer==0.18.2
+qiskit-ibm-runtime==0.51.0
+matplotlib==3.11.2
+pylatexenc==2.11
+# only needed to rebuild the notebooks with tools/build_notebooks.py
+nbformat
